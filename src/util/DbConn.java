@@ -3,9 +3,9 @@ package util;
 import java.sql.*;
 
 public class DbConn {
-    private final String DRIVER = "com.mysql.cj.jdbc.Driver";
-    private final String URL = "jdbc:mysql://localhost:3306/signsystem";
-    private final String USERNAME = "root";
+    private final String DRIVER = "";
+    private final String URL = "";
+    private final String USERNAME = "";
     private final String PASSWORD ="";
     private Connection conn=null;
 
